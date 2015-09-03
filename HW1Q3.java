@@ -26,31 +26,31 @@ public class HW1Q3{
 		switch(num){
 			
 			case 1:  month = "January";
-            	break;
+            		break;
 			case 2:  month = "February";
-            	break;
+            		break;
 			case 3:  month = "March";
-            	break;
+            		break;
 			case 4:  month = "April";
-            	break;
+            		break;
 			case 5:  month = "May";
-            	break;
+            		break;
 			case 6:  month = "June";
-            	break;
+            		break;
 			case 7:  month = "July";
-            	break;
+            		break;
 			case 8:  month = "August";
-            	break;
+            		break;
 			case 9:  month = "September";
-            	break;
+            		break;
 			case 10: month = "October";
-            	break;
+            		break;
 			case 11: month = "November";
-            	break;
+            		break;
 			case 12: month = "December";
-            	break;
-            default: month = "error";
-            	break;
+            		break;
+            		default: month = "error";
+            		break;
             	
 		}
 		
